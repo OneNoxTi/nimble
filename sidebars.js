@@ -1,5 +1,6 @@
 let docs = [
-  'intro'
+  'intro',
+  'v2'
 ]
 
 module.exports = [
